@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyExpensive</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+    </string>
+    <string name="languages_fetched">Languages fetched: %1$d</string> <!-- with placeholder -->
+    <string name="no_languages_available">No languages available</string>
+    <string name="add_new_language">Add New Language</string>
+    <string name="edit_new_language">Edit New Language</string>
+
+    <string name="enter_language_name">Enter Language Name</string>
+    <string name="save">Save</string>
+    <string name="edit_icon_description">edit</string>
+    <string name="delete_icon_description">delete</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string> <!-- Optional message -->
+
+</resources>
